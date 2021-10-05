@@ -32,7 +32,7 @@ const ShowDetails = () => {
                                     <h3>{result?.departmentName}</h3>
                                </div>
                                 <div className="department-total-cost">
-                                    <span>coursePrice: {result?.coursePrice} TK</span>
+                                    <span>course Price: {result?.coursePrice} TK</span>
                                 </div>
                                 <div className="join-course">
                                     <button>Join Now</button>
