@@ -1,0 +1,30 @@
+/****************************
+********import google font*********
+*****************************/
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans&family=Poppins:ital,wght@1,300&display=swap");
+
+/****************************
+*style all departments sections*
+*****************************/
+
+.all-departments-section {
+  margin-top: 50px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.all-departments-section-title h1 {
+  text-align: center;
+  font-size: 35px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 20px;
+}
+
+.all-departments {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

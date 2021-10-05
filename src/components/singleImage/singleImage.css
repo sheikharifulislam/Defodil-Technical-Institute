@@ -1,0 +1,15 @@
+.single-image {
+  width: 23%;
+  height: 200px;
+  margin-bottom: 15px;
+  margin-right: 2.666666%;
+}
+
+.single-image:nth-child(4n) {
+  margin-right: 0;
+}
+
+.single-image img {
+  width: 100%;
+  height: 100%;
+}

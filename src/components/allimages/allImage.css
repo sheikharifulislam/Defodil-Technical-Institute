@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+
+.image-frame {
+  margin-top: 40px;
+}
+
+.container {
+  width: 800%;
+  margin: 0 auto;
+}
+.image-frame-section-title h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  text-transform: capitalize;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.all-images {
+  display: flex;
+  flex-wrap: wrap;
+}

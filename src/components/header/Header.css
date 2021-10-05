@@ -1,0 +1,44 @@
+/****************************
+*******imort google font*********
+*****************************/
+
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap");
+
+/****************************
+*******start header style**********
+*****************************/
+
+.style-header {
+  background-color: #f5f5f5;
+  border-bottom: 3px solid #eee;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.logo-and-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.institute-logo img {
+  height: 40px;
+}
+
+.menu nav ul {
+  display: flex;
+  list-style: none;
+}
+
+.menu nav ul li a {
+  display: block;
+  text-decoration: none;
+  text-transform: capitalize;
+  padding: 25px 30px;
+  font-size: 20px;
+  color: #000;
+  font-family: "Cormorant Garamond", serif;
+}

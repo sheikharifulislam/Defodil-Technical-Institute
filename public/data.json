@@ -1,0 +1,57 @@
+[{      
+        "id": "334c530b-d352-415e-ad56-9e9373b7ddbb",
+        "departmentImage": "https://i.ibb.co/0yX2sX4/download.jpg",
+        "departmentName": "computer science and engineering",
+        "coursePrice": "280000",
+        "highlightOverview": "A Computer Engineer is responsible for constructing and managing an organization’s computer system and providing technical support to the organization. A computer engineer typically works in an office or laboratory environment as part of a team and enjoys a traditional work schedule. A computer engineer may be a software engineer, is responsible for developing, testing and evaluating the software that enables our computer for work. They may help in the development of new computer games and business applications or even in the design of entirely new operating systems. Whether a student’s goal is to become a computing professional, DTI is committed to helping them gain the background they needed to be a world class engineer."           
+    },
+    {
+        "id": "c699c2e2-895e-4373-913b-ae7f1d09400d",
+        "departmentImage": "https://i.ibb.co/xHV982V/download-1.jpg",
+        "departmentName": "electrical technology",
+        "coursePrice": "250000",
+        "highlightOverview": "Electrical Engineering deals with the study and application of electricity, electronics and electromagnetism. This field first became an identifiable occupation in the latter half of the 19th century after commercialization of the electric telegraph, the telephone, and electric power distribution. Subsequently, broadcasting and recording media made electronics as a part of our daily life. The invention of the transistor and later the integrated circuit, brought down the cost of electronics to the point they can be used in almost any household object."     
+    },
+    {
+        "id": "c341d80e-0a44-445d-850c-9b462a93259d",
+        "departmentImage": "https://i.ibb.co/PC4fcGM/download-2.jpg",
+        "departmentName": "telecommunication technology",
+        "coursePrice": "25000",
+        "highlightOverview": "Being an Engineer is about problem solving, having a design focus and utilizing technology to benefit society. Telecommunication Engineering is a broad specialization of electrical engineering encompassing the design, construction and management of systems that carry out the transmission, processing and storage of information as electrical signals/data. A wide range of technologies are involved in any telecommunication system like satellites, radio, telephone cables and optical fibers all play an important role in telecommunication networks. Computers are used to process, transform and store information and to control telecommunication networks."  
+    },
+    {
+        "id": "148c0e08-e199-4e33-905d-7a20474295bf",
+        "departmentImage": "https://i.ibb.co/N9Ht0JT/download-3.jpg",
+        "departmentName": "textile technology",
+        "coursePrice": "270000",
+        "highlightOverview": "Textile Engineer becomes an imperative part of civil society by playing a very vital role for the development of the country through their skills and expertise. Now, they are also responsible for looking after the fire control systems and installing quick fire exit points in the buildings they design. This will help in minimizing the loss of life during fire accidents. Another very important aspect of civil engineering is environmental engineering. In this case, the civil engineers are concerned with applications of various methods to purify the contaminated air, water and soil. The polluted system should be cleaned, the waste extracted and the purified constituent must be sent back to the natural system."
+    },   
+    {
+        "id": "05fa6370-5770-4b3b-a43a-38c8ba6809d5",
+        "departmentImage": "https://i.ibb.co/nRdVJXy/download-4.jpg",
+        "departmentName": "tourism and hospitality managment",
+        "coursePrice": "260000",
+        "highlightOverview": "tourism and hospitality managmen becomes an imperative part of civil society by playing a very vital role for the development of the country through their skills and expertise. Now, they are also responsible for looking after the fire control systems and installing quick fire exit points in the buildings they design. This will help in minimizing the loss of life during fire accidents. Another very important aspect of civil engineering is environmental engineering. In this case, the civil engineers are concerned with applications of various methods to purify the contaminated air, water and soil. The polluted system should be cleaned, the waste extracted and the purified constituent must be sent back to the natural system."
+    },
+    {
+        "id": "ff55d786-ee52-4187-8333-16f1d1b9d493",
+        "departmentImage": "https://i.ibb.co/qFLjTgs/download-5.jpg",
+        "departmentName": "civil technology",
+        "coursePrice": "230000",
+        "highlightOverview": "Civil Engineer becomes an imperative part of civil society by playing a very vital role for the development of the country through their skills and expertise. Now, they are also responsible for looking after the fire control systems and installing quick fire exit points in the buildings they design. This will help in minimizing the loss of life during fire accidents. Another very important aspect of civil engineering is environmental engineering. In this case, the civil engineers are concerned with applications of various methods to purify the contaminated air, water and soil. The polluted system should be cleaned, the waste extracted and the purified constituent must be sent back to the natural system."
+    },
+    {
+        "id": "f211ac54b-69a7-4247-a15a-0e95677ccbd8",
+        "departmentImage": "https://i.ibb.co/SfHrfzj/download-6.jpg",
+        "departmentName": "architechture & interior design",
+        "coursePrice": "250000",
+        "highlightOverview": "Architecture engineers are the engineers that specialize in making buildings. Interior designers work with architects to plan the layout of interiors for optimum utilization of area, for creating spaces for functionality as well as utility. Interior decorators on the other hand plan colour schemes, furniture, furnishings, decorations and arrangements. Architecture is the art of building in which human requirements and construction materials are brought to bear in a practical as well as aesthetic solution. Architecture is a passion as well as a science and a business. It involves the design of buildings, cities and spaces, whilst taking account of culture, history and innovation to produce new architecture as a mark of our society."
+    },
+    {
+        "id": "a644204d-4566-4be7-8549-25180f86a5e8",
+        "departmentImage": "https://i.ibb.co/60xKfnm/images.jpg",
+        "departmentName": "garments design & patern making",
+        "coursePrice": "275000",
+        "highlightOverview": "Garments Design & Pattern Making technology is a part of a textile engineering and it deals with the application of scientific and engineering principals to the design & control of all aspects of fibre, textile and apparel processes and machinery. There include natural and man-made materials, designs and cuts of the dresses, safety and health, energy conservation and waste and pollution control. In Bangladesh, there are two important textile sectors such as hand-loom sector and the mechanized sector. Both of them have full growth potential as there are thousands of textiles mills all over the country."
+    }   
+]

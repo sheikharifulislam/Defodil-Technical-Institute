@@ -1,0 +1,86 @@
+/****************************
+**import google font***
+*****************************/
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&family=Poppins&display=swap");
+
+/****************************
+*********common style*******
+*****************************/
+.container-fluid {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.history-section-title h1,
+.mission-and-vission-section-title h1 {
+  text-align: center;
+  text-transform: capitalize;
+  font-family: "Merriweather", serif;
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+.history-container,
+.mession-and-vission-section-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.history-section-image,
+.messison-and-vission-image {
+  width: 55%;
+  height: 300px;
+  margin-top: 30px;
+  position: sticky;
+  top: 0;
+}
+.history-section-image img,
+.messison-and-vission-image img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.history-section-descriptions,
+.mession-and-vission-and-descriptions {
+  width: 40%;
+}
+
+.history-section-descriptions p,
+.mession-and-vission-and-descriptions p {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  line-height: 30px;
+  color: gray;
+}
+
+/****************************
+**style about us section***
+*****************************/
+
+#about-us-section {
+  margin-top: 50px;
+}
+
+/****************************
+style mission and vission section
+*****************************/
+
+.mission-and-vission-section {
+  margin-top: 130px;
+}
+
+.messison-and-vission-image {
+  margin-top: 50px;
+}
+
+.mission .section-title,
+.vission .section-title {
+  margin: 20px 0;
+}

@@ -1,0 +1,30 @@
+/****************************
+***import google font***
+*****************************/
+@import url("https://fonts.googleapis.com/css2?family=Arvo&display=swap");
+
+/****************************
+**some departments section**
+*****************************/
+
+.some-departments-section {
+  margin-top: 40px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.hightlight-departments {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 24px;
+  font-family: "Arvo", serif;
+  margin-bottom: 25px;
+  color: #333;
+}
