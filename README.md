@@ -1,4 +1,4 @@
-# DEfodil Technical Institute
+# DEffodil Technical Institute
 
 This project was bootstrapped with [Defodil-Technical-Institute](https://defodil-technical-institute.netlify.app/all-departments).
 
