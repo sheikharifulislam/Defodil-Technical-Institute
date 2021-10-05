@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Defodil-Technical-Institute](https://defodil-technical-institute.netlify.app/all-departments).
+
+. it is a Technical institute web site
+. You can see all the information abut us here
+. You can get admission in our insitite from the web site
 
 ## Available Scripts
 
@@ -68,4 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # review-website-sheikharifulislam
